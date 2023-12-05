@@ -1,4 +1,4 @@
-# Tic Tac Toe (Vanilla JS)
+# Tic Tac Toe (Vanilla JS) - Work-in-Progress
 
 ### Hello there!
 This project is a part of The Odin Project's web development course and focuses on the concept of ["building a house from the inside"](https://www.ayweb.dev/blog/building-a-house-from-the-inside-out).
